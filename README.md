@@ -1,4 +1,4 @@
-# Official APK Releases
+# Official APK Release
 
 This repository hosts **official evaluation APK builds** for verification and acquisition purposes.
 
